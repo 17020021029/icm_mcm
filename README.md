@@ -22,6 +22,11 @@ a. 如果是，请使用您的模型为小型捕捞公司识别和评估实用�
 3.根据第二问结果及渔业规律合理推断</br>
 4.根据《国际海洋法》内容</br>
 5.杂志文章，需要找一些参考文章，尽量写好</br>https://wenku.baidu.com/view/1aab598469eae009591bec6e.html
+
+## 数据来源
+https://oceanwatch.pifsc.noaa.gov/erddap/info/index.html?page=1&itemsPerPage=1000
+
+https://www.metoffice.gov.uk/services/data/datapoint
 ## 海水库
 md文件是海水库代码的注释</br>
 s 盐度 t 温度 p 压力
