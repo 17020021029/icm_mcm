@@ -23,6 +23,14 @@ a. 如果是，请使用您的模型为小型捕捞公司识别和评估实用�
 4.根据《国际海洋法》内容</br>
 5.杂志文章，需要找一些参考文章，尽量写好</br>https://wenku.baidu.com/view/1aab598469eae009591bec6e.html
 
+### 建模方法
+#### 灰度模型（待研究）
+没有可用的代码matlab
+预测规则模糊，不知道如何确定第二问
+#### 多元回归分析
+确定主要因素对水温的影响函数
+找到可变的因素，模拟多组数据，找到最好最坏情况，回答第二题
+
 ## 数据来源
 https://oceanwatch.pifsc.noaa.gov/erddap/info/index.html?page=1&itemsPerPage=1000
 
